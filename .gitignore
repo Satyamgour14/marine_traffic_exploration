@@ -1,0 +1,8 @@
+# Ignore depandancies
+node_modules
+
+# Ignore environment variable
+.env
+
+# Ignore package-lock.json
+package-lock.json
